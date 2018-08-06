@@ -10,6 +10,6 @@ This app uses the following libraries & frameworks:
 - JQuery
 - Bootstrap v4
 
-_Deployed on Heroku via Github:_ https://npr-mongoose-scraper.heroku.com
+_Deployed on Heroku via Github:_ http://npr-mongoose-scraper.heroku.com
 
 
